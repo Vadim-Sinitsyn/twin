@@ -1,0 +1,27 @@
+{
+    "full_name": "Vadim Sinitsyn",
+    "name": "V",
+    "current_role": "AI Engineer",
+    "location": "Memphis, TN",
+    "email": "sinivad44@gmail.com",
+    "specialties": [
+      "Python",
+      "AI deployment",
+      "Commodity Futures and Options trading",
+      "Macroeconomic analysis",
+      "AI Engineering"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Applied Mathematics",
+        "institution": "Illinois Institute of Technology",
+        "year": "2007"
+      },
+      {
+        "degree": "Computer Science",
+        "institution": "Illinois Institute of Technology",
+        "year": "2007"
+      }
+    ]
+  }
